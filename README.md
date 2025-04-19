@@ -15,19 +15,19 @@ Welcome to my data playground! I'm a Data Analyst-in-the-making with 6 years of 
 
 ## 📊 Portfolio Projects
 
-### 1. [Customer Churn Profiling (Alteryx)](https://github.com/richard-data/Alteryx-Projects/tree/main/Customer-Churn-Profiling)
+### 1. [Customer Churn Profiling (Alteryx)](https://github.com/richardxdata/Alteryx-Projects/tree/main/Customer-Churn-Profiling)
 Used Alteryx to prep, blend, and analyze customer data to predict churn probability and build KPIs for retention strategy.
 
-### 2. [AirBnB Price Segmentation (Alteryx + Excel)](https://github.com/richard-data/Alteryx-Projects/tree/main/AirBnB-Price-Segmentation)
+### 2. [AirBnB Price Segmentation (Alteryx + Excel)](https://github.com/richardxdata/Alteryx-Projects/tree/main/AirBnB-Price-Segmentation)
 Analyzed sales data and created workflow to automate reporting with Alteryx, then visualized insights in Excel and Tableau.
 
-### 3. [Netflix Trends Analysis (Alteryx)](https://github.com/richard-data/Alteryx-Projects/tree/main/Netflix-Trends-Analysis)
+### 3. [Netflix Trends Analysis (Alteryx)](https://github.com/richardxdata/Alteryx-Projects/tree/main/Netflix-Trends-Analysis)
 Explored Netflix dataset to uncover genre trends, viewer behavior, and hidden gems using Alteryx + R.
 
-### 4. [Analyzing Sales Data (Alteryx)](https://github.com/richard-data/Alteryx-Projects/tree/main/Analyzing-Sales-Data)
+### 4. [Analyzing Sales Data (Alteryx)](https://github.com/richardxdata/Alteryx-Projects/tree/main/Analyzing-Sales-Data)
 Explored Netflix dataset to uncover genre trends, viewer behavior, and hidden gems using Alteryx + R.
 
-### 5. [Analyzing Fitness Data (Alteryx)](https://github.com/richard-data/Alteryx-Projects/tree/main/Analyzing-Fitness-Data)
+### 5. [Analyzing Fitness Data (Alteryx)](https://github.com/richardxdata/Alteryx-Projects/tree/main/Analyzing-Fitness-Data)
 Explored Netflix dataset to uncover genre trends, viewer behavior, and hidden gems using Alteryx + R.
 
 ---
